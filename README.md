@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 , I am Asahel, Robotics engineering ungraduate and software developer with experience in embedded systems.</h2>
+<h2 align="left">Hi 👋 , I am Asahel, Robotics engineer and software developer with experience in embedded systems.</h2>
 
 ###
 
